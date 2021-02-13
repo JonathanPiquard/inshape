@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\exploded-aar\com.yalantis\ucrop\1.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9d27a85b9b7774bb4aad8b319e8367865729686e">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\classes-8d26df226b08b6c3e8ca523e9fba582cb34360af.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\classes-8f32d52a9ea28d3c1905c37527ca205510553cfb.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0-a5555ca134e044b496ea3aa1990f5c491fb89825.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\classes-790264ec64e3c2c5bd3ffaac5861720bde9c32fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\exploded-aar\Talented\react-native-code-push\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1baf30ca82e4ec4b50e3eda87cf463015a894c00">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\classes-60f64a7baa1982c01851321ed3f8fe5a9f89ab58.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\classes-2c6255b42cd30d2f26f791411f5fe8a2eae0ce2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\classes-0bba87495bf5c5430448f2a96b8972236bd9c25a.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\classes-3cfe9aa1f5480b2450d8a7445827ea8d87b79af8.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.30.0\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0bbd1350ccbd98c0648b9a8bd1242233847886ba">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-345a00b8f661fdd19bae1bd45c4144621cd2f1ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-7be6c87a893819d735faa5c52aaca20fffa99ae9.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.2.0\6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c\okhttp-urlconnection-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.2.0-d3b6389da7c434d115487696bc64b531c44277e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.30.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b3e583f69ed6ccd7cc7f5fe75e41464ffafb8e17">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\classes-268c3baf1e31027cfd98dee0f8fa174ea115db2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-9589cf8251d5ebdda57d6e95cc2d3f5e2989c5c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\classes-06dc72973cb6c1ced629add15137f0d14f310902.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.2.0\1ea229d6984444c8c58b8e97ba4c8429d9d135b3\okhttp-ws-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ea229d6984444c8c58b8e97ba4c8429d9d135b3">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.2.0-3da1e827e7dea5221190133707acd5c11e80ed50.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\library-2.4.0-fb94ce7ae2f13688f0be9ed6aab8a912835ecbdc.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\okio-1.8.0-fca5c23f854cc024bc650555e77c25466427e289.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.3\1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14\jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.3-e7bf3f0df70d34e493c31bcd305c01af6f7efe3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\classes-7765144f5930db2d53598facc0767dac0548aed1.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\classes-b20ebfe5909769d4fb26c3cbad1c0ae1366eb845.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0-89a4d9f89c13540a2c5fca54f70e28ecb3ebde6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\classes-b4c9ef1e0af8ba0dfe97cbbf1a47000532cc22c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\classes-70576b27b332c82c59599dc105a1b01a47af188a.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\classes-f43523916e996db85fda0a2d936caae2458a5236.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\exploded-aar\Talented\react-native-image-crop-picker\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d8e461c014b3a72af2fa6ab9277c22c29e9c10fb">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\classes-178a73c755496f66000dcddc5df0aea7220418cc.jar" />
+    </item>
+    <item
+        jar="C:\Users\John\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\John\Talented\Frontend\App\android\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0-a1d8896e3dc923a518bb8a9020c266440bf579c9.jar" />
+    </item>
+
+</items>
